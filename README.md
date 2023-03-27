@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Osama</h1>
-<h3 align="center">Web and Mobile application Developer</h3>
+<h3 align="center">Web and Mobile Application Developer</h3>
 
 - 💬 Ask me about **Flutter, React**
 
